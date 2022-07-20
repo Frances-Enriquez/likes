@@ -1,0 +1,26 @@
+.box{
+    border: solid 2px black;
+    width: 470px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.contenttop{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px;
+}
+button{
+    height: 20px;
+    margin-right: 10px;
+    background-color: aqua;
+    font-family: 'Courier New', Courier, monospace;
+    box-shadow: 3px 2px 5px black;
+
+}
+#countlikes{
+    margin-left: 160px;
+}
+.contentbottom{
+    margin-left: 10px;
+}

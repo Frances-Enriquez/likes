@@ -1,0 +1,83 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0%;
+    width: 1000px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+button{
+    font-family: 'Courier New', Courier, monospace;
+    height: 20px;
+    margin-left: 5px;
+    background-color: aqua;
+    box-shadow: 3px 2px 5px black;
+}
+.navbar{
+    margin-top: 0%;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    background-color: black;
+    color: aliceblue;
+    padding-left: 10px;
+
+}
+.yourfeed{
+    display: flex;
+    justify-content: center;
+    height: 70px;
+    border-bottom: solid 1px black;
+}
+.profilebox{
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+    margin-top: 40px;
+}
+.leftbox{
+    width: 200px;
+    display: flex;
+    justify-content: center;
+}
+.rightbox{
+    width: 500px;
+}
+.content{
+    width: 180px;
+    height: 230px;
+    border: solid 2px black;
+    margin-right: 40px;
+}
+.content2{
+    width: 430px;
+}
+.contenttop1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 10px;
+}
+.contentbottom1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.firstbox{
+    border: solid 2px black;
+}
+.secondbox{
+    border: solid 2px black;
+    margin-top: 30px;
+}
+.thirdbox{
+    border: solid 2px black;
+    margin-top: 30px;
+}
+img{
+    width: 90px;
+}
+a{
+    color: pink;
+}
